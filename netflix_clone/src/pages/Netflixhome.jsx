@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import Navbar from '../components/Navbar';
 import Slider from '../components/Slider';
 import BackgroundImage from '../assets/hannibal.jpg';
-import movieLogo from "../assets/homeTitle.webp"
 import { FaPlay } from "react-icons/fa";
 import { AiOutlineInfoCircle } from "react-icons/ai";
 import styled from 'styled-components';
@@ -46,7 +45,6 @@ export default function Netflixhome() {
         <img src={BackgroundImage} alt="Image Load Error" className='background-image' />
         <div className="container">
           <div className="logo">
-            <img src={movieLogo} alt="Movie Image Load Error" />
           </div>
           <div className="buttons flex">
             <button className='flex j-center a-center' onClick={() => navigater('/player')}>
