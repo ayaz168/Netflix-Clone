@@ -2,7 +2,7 @@
 
 Images::
 
-https://github.com/ayaz168/Netflix-Clone/blob/main/Pictures/nf1.png
+![image description](Pictures/nf1.png)
 
 
 
