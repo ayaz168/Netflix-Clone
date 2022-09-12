@@ -1,12 +1,11 @@
 ﻿# Netflix-Clone
 
-Images::
+Images:
 
-![image description](Pictures/nf1.png)
+![Homepage](Pictures/nf1.png)
 
 
-
-![MoviesPages](https://https://github.com/ayaz168/Netflix-Clone/blob/main/Pictures/nf2.png?raw=true)
+![MoviesPage](Pictures/nf2.png)
 
 
 
