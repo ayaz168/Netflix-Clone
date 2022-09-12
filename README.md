@@ -2,8 +2,8 @@
 
 Images::
 
-![Homepage](Pictures/to/nf1.jpg?raw=true "Title")
-![Movies List](Pictures/to/nf2.jpg?raw=true "Title")
+![Homepage](Pictures/nf1.jpg?raw=true "Title")
+![Movies List](Pictures/nf2.jpg?raw=true "Title")
 
 
 
