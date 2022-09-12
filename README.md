@@ -2,8 +2,11 @@
 
 Images::
 
-![Homepage](nf1.jpg?raw=true "Title")
-![Movies List](nf2.jpg?raw=true "Title")
+![Homepage](https://https://github.com/ayaz168/Netflix-Clone/blob/main/Pictures/nf1.png?raw=true)
+
+
+
+![MoviesPages](https://https://github.com/ayaz168/Netflix-Clone/blob/main/Pictures/nf2.png?raw=true)
 
 
 
